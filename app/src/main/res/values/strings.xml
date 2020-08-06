@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MRM</string>
+    <string name="title_activity_nav">nav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">MRM Textiles</string>
+    <string name="menu">menu</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Favorities</string>
+    <string name="menu_slideshow">Contact-us</string>
+    <string name="fav">Favorites</string>
+    <string name="contact">Contact Us</string>
+    <string name="more">Info</string>
+    <string name="info">We are kanjivaram art silk saree manufacture fromTamilnadu
+
+We have been making and selling good quality and cheap silk sarees for the past 10 years.
+
+Starting price is Rs 799 to 1799 direct factory sales
+</string>
+    <string name="text">Look dashing in this silk saree made by MRM Textile.
+        Match this saree with heels and jewellery when you have a event to attend.</string>
+</resources>
